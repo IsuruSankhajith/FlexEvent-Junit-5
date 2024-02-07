@@ -1,0 +1,17 @@
+/Calendar.class
+/ConflictsException.class
+/ConflictsExceptionTest.class
+/Meeting.class
+/MeetingTest.class
+/Organization.class
+/OrganizationTest.class
+/Person.class
+/PersonTest.class
+/Planner.class
+/Room.class
+/RoomTest.class
+/ScheduleMeetingTest.class
+/CheckRoomAvailabilityTest.class
+/BookVacationTest.class
+/PersonAvailabilityTest.class
+/OrganizationTest$TestExceptionOrganization.class

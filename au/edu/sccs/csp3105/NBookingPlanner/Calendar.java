@@ -185,7 +185,7 @@ public class Calendar {
 			agenda = "No Meetings booked on this date.\n\n";	
 		}
 		else {
-			agenda = "Agenda for "+month+"/"+day+" are as follows:\n";
+				agenda = "Agenda for "+month+"/"+day+" are as follows:\n";
 		
 		   for(Meeting toPrint : occupied.get(month).get(day)){
 			agenda = agenda+toPrint.toString()+"\n";
