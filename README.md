@@ -1,5 +1,5 @@
 
-## Event Booking Software Component System
+## Event Booking Software Component System 
 
 This repository contains the source code and testing implementations for an Event Booking Software Component System. The system, implemented in Java, allows users to schedule meetings, book vacation dates, check room and employee availability, and view agendas within an organization.
 
